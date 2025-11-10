@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { ArrowRight, MessageSquare, Heart, Sparkles } from 'lucide-react';
+import { MessageSquare, Heart, Sparkles } from 'lucide-react';
 
 const UserJourney = () => {
   const steps = [
