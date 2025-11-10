@@ -9,7 +9,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/",
+  base: process.env.GITHUB_ACTIONS ? "/journal-landing-page/" : "/",
   build: {
     outDir: "dist",
     emptyOutDir: true,
