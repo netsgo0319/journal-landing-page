@@ -68,3 +68,4 @@ echo ""
 echo "⚠️  Xcode 라이선스 에러가 발생하면 setup-github-manual.md를 참고하세요."
 echo ""
 
+

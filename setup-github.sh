@@ -47,3 +47,4 @@ echo "4. 배포가 완료되면 다음 URL에서 사이트를 확인할 수 있�
 echo "   https://netsgo0319.github.io/journal-landing-page"
 echo ""
 
+
